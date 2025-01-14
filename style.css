@@ -1,5 +1,43 @@
+body{
+    background-color: #fad6d6;
+}
+
+.navbar{
+    background-color: #fabdbd;
+    
+}
+
+.navbar a {
+    color: #fefcd0;
+    font-family:"Dancing Script", serif;
+}
+
+.navbar-brand{
+    margin:auto;
+    font-size: 2rem;
+}
+
 .carousel-img{
     width: 100%;
     height: 400px;
     object-fit: cover;
 }
+h2 a{
+    color: #fefcd0;
+    text-decoration: none;
+    font-family:"Roboto", serif;
+}
+
+
+.card{
+    background-color: #fabdbd;
+    font-family:"Roboto", serif;
+
+}
+
+.card-img-top {
+    width: 100%; 
+    height: 200px; 
+    object-fit: cover;
+}
+
